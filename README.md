@@ -14,7 +14,6 @@
 - 👨‍💻 I'm passionate about problem-solving and constantly improving my skills.
 - 💬 Ask me about my experience with C++, Python, OOP, Data Structures, Databases, and teamwork.
 - ⚡ Fun Fact: I love learning new things and finding solutions to challenges.
-- 👨‍💻 Check out my portfolio at [your portfolio link] to see some of the projects I've worked on.
 
 ### Connect with Me:
 
